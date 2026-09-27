@@ -84,6 +84,13 @@
         "Allowoffline": false
     },
     {
+        "device_id": "5f743fad31087248",
+        "username": "sggdhk",
+        "password": "rbkfsg",
+        "expirydate": "03-10-2026",
+        "Allowoffline": false
+    },
+    {
         "device_id": "device456",
         "username": "user2",
         "password": "pass456",
