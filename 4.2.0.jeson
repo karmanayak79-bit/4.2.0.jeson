@@ -92,8 +92,15 @@
     },
     {
         "device_id": "6b59e97e8aa1a4f5",
-        "username": "uhdshh",
-        "password": "kgdvfjgf",
+        "username": "uhdshh123",
+        "password": "akshrh283",
+        "expirydate": "03-10-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "874bf4b5de44d971",
+        "username": "usebsjv123",
+        "password": "pmvsih6544",
         "expirydate": "03-10-2026",
         "Allowoffline": false
     },
